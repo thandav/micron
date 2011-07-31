@@ -1,0 +1,23 @@
+Next task:
+
+
+
+
+To build:
+
+1. Memory map manager
+2. Worker thread manager
+3. Queue Manager
+4.
+
+
+To know:
+
+1. Threads
+2. Sockets and connections
+
+
+1. Make QueueManager Singleton
+2. ThreadManager Singleton
+3. look at Boost::asio
+4.
